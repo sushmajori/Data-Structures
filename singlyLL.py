@@ -1,5 +1,5 @@
 """
-Python program for linklist to perform following operation:
+Python program to perform following operation using link list:
 1.Create Linked List : 
 
 2.Inset Node at Begining :
