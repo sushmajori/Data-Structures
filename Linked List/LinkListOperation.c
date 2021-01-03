@@ -1,4 +1,5 @@
-// This File contain different Operations on a link list : count number of node in a link list , reverse the link list , Addition of Nodes in a link list using Iterative as well as recursive method.
+// This File contain different Operations on a link list : count number of node in a link list , reverse the link list, 
+// Addition of Nodes in a link list using Iterative as well as recursive method.
 #include<stdio.h>
 #include<stdlib.h>
 
