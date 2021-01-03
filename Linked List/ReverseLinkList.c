@@ -1,3 +1,4 @@
+// This is a code of Reversing link list using different different method.
 #include<stdio.h>
 #include<stdlib.h>
 // Node structure
